@@ -5,8 +5,18 @@
  <font color=blue size='10px' face='tahoma'>
  <h1> <p align='center'> <b> FEDORA-INSTALL <br> </h1>
   </body>
+<font size='1px'>
+<h1>  Need : </h1>
+<br> 
 
- <font size='1px'>
+* pkg install wget curl proot tar -y
+<br> 
+
+* git clone 
+
+<br>
+<font size='1px'>
+
  <h1>  Usage : </h1>
 <br>
 

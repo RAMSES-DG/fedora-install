@@ -1,6 +1,6 @@
 <html>
   <body>
- <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBYyz_czNXyZUeh0mxRydvrwNrEC8Gl9R-A&usqp=CAU'/>
+ <img src='https://l.top4top.io/p_2173a69g70.jpg'/>
 
  <font color=blue size='10px' face='tahoma'>
  <h1> <p align='center'> <b> FEDORA-INSTALL <br> </h1>

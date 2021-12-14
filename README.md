@@ -9,7 +9,7 @@
 <h1>  Need : </h1>
 <br> 
 
-* pkg install wget curl proot tar -y
+* pkg install wget curl proot tar git -y
 <br> 
 
 * git clone 
